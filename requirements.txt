@@ -1,0 +1,9 @@
+langchain_openai
+langchain
+chromadb
+pypdf
+langchain_chroma
+redis
+flashrank
+streamlit
+langchain-community
